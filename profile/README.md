@@ -4,10 +4,10 @@
   <p><strong>Agents that Act, Build, and Evolve.</strong></p>
   <p>An open research platform for agentic robotics.</p>
   <p>
+    <a href="https://roboagentlab.github.io/">Website</a> ·
+    <a href="https://roboagentlab.github.io/docs/quickstart.html">Get started</a> ·
     <a href="https://github.com/RoboAgentLab/RoboAgentLab">Platform code</a> ·
-    <a href="https://github.com/RoboAgentLab/RoboAgentLab/tree/main/packages/embodied">Documentation</a> ·
     <a href="https://github.com/RoboAgentLab/awesome-agentic-robotics">Awesome list</a> ·
-    <a href="https://github.com/RoboAgentLab/RoboAgentLab/releases/tag/v1.0">v1.0 release</a> ·
     <a href="https://huggingface.co/RoboAgentLab/datasets">Datasets</a>
   </p>
 </div>
@@ -33,6 +33,6 @@ The dataset cards describe the contents and structure of the current releases.
 
 ## Research and open resources
 
-Our forthcoming paper, **Agents that Act, Build, and Evolve: A Unified Framework and Platform for Agentic Robotics**, connects these roles within a common framework. The [RoboAgentLab v1.0 source release](https://github.com/RoboAgentLab/RoboAgentLab/releases/tag/v1.0) and [Awesome Agentic Robotics](https://github.com/RoboAgentLab/awesome-agentic-robotics) are available now. The paper will be published after author confirmation.
+Our forthcoming paper, **Agents that Act, Build, and Evolve: A Unified Framework and Platform for Agentic Robotics**, connects these roles within a common framework. The [RoboAgentLab platform](https://github.com/RoboAgentLab/RoboAgentLab) and [Awesome Agentic Robotics](https://github.com/RoboAgentLab/awesome-agentic-robotics) are available now.
 
 Explore the [platform repository](https://github.com/RoboAgentLab/RoboAgentLab) and the datasets above to follow the project.
